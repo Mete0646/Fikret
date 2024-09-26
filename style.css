@@ -1,0 +1,18 @@
+body {
+    font-family: "Obelix Pro Broken", sans-serif; /* Yazı tipi ailesi */
+    font-size: 11px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-color: #ffd7b1; /* Web sayfasının arka plan rengi */
+    color: #ff0000; /* Metin rengi */
+}
+
+h1 {
+    color: #a200ff; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Times New Roman', Times, serif, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+@font-face {
+    font-family: ‘ObelixProBroken’;
+    src: url("C:\Users\Mete Sarıdurmuşoğlu\Desktop\Kodland\Web sitesi\obelix-pro-broken\ObelixPro-Broken-cyr.ttf") format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
